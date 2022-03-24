@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07f3fe0d-27cc-4ce7-a58b-55750b638315" name="Changes" comment="made TemplatesIconFilled.png better">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TaskAppProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TaskAppProject/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="07f3fe0d-27cc-4ce7-a58b-55750b638315" name="Changes" comment="huh">
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/HomeIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/HomeIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/HomeIconFilled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/HomeIconFilled.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/SettingsIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/SettingsIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/SettingsIconFilled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/SettingsIconFilled.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/TemplatesIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/TemplatesIcon.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/TemplatesIconFilled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Icons/TemplatesIconFilled.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
