@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07f3fe0d-27cc-4ce7-a58b-55750b638315" name="Changes" comment="made TemplatesIconFilled.png better">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.TaskApp.dir/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="07f3fe0d-27cc-4ce7-a58b-55750b638315" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TaskAppProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TaskAppProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MainApp.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MainApp.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SplashScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SplashScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SplashScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SplashScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

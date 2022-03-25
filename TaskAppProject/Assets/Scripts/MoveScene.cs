@@ -14,6 +14,13 @@ public class MoveScene : MonoBehaviour
     IEnumerator SplashChange()
     {
         yield return new WaitForSeconds(2);
-        SceneManager.LoadScene(1);
+        
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync("MainScene");
+
+        // Wait until the asynchronous scene fully loads
+        while (!asyncLoad.isDone)
+        {
+            yield return null;
+        }
     }
 }
